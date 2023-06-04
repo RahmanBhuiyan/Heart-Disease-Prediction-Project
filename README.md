@@ -1,5 +1,3 @@
-Sure! Here's an example README file for your heart disease prediction project:
-
 # Heart Disease Prediction
 
 ![Demo Image](demo/s1.png)
