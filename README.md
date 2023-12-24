@@ -3,7 +3,7 @@
 ![Demo Image](demo/s1.png)
 
 ## Description
-
+ 
 This project aims to predict the presence or absence of heart disease using a decision tree model. The decision tree algorithm is used to analyze a set of medical indicators and classify patients as either having heart disease or not.
 
 The project consists of two main components: the model building phase and the web application for user interaction.
